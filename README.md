@@ -1,3 +1,4 @@
+First commit
 Welcome to the AWS CodeStar Sample Custom Rule for AWS Config
 =============================================================
 
